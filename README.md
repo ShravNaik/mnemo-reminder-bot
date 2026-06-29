@@ -1,4 +1,4 @@
-![Mnemo Logo]("https://i.ibb.co/zVvD1g0b/Mnemo-Logo.png")
+[![Mnemo-Logo.png](https://i.postimg.cc/90tTfyL2/Mnemo-Logo.png)](https://postimg.cc/dZ3DHZMN)
 # Mnemo — Your Timekeeper Companion ⏳
 
 Mnemo is a smart WhatsApp assistant that helps you stay on track with life’s tasks.  
