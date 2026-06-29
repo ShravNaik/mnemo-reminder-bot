@@ -1,3 +1,4 @@
+![Mnemo Logo](https://ibb.co/zVvD1g0b)
 # Mnemo — Your Timekeeper Companion ⏳
 
 Mnemo is a smart WhatsApp assistant that helps you stay on track with life’s tasks.  
