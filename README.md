@@ -1,4 +1,4 @@
-[![Mnemo-Logo.png](https://i.postimg.cc/90tTfyL2/Mnemo-Logo.png)](https://postimg.cc/dZ3DHZMN)
+![Mnemo Logo](assets/MnemoLogo.png)
 # Mnemo — Your Timekeeper Companion ⏳
 
 Mnemo is a smart WhatsApp assistant that helps you stay on track with life’s tasks.  
@@ -33,7 +33,7 @@ Add one‑time or recurring reminders, mark them as done, edit on the fly, and v
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/mnemo-reminder-bot.git
+git clone https://github.com/<ShravNaik>/mnemo-reminder-bot.git
 cd mnemo-reminder-bot
 ```
 ### 2. Installing Dependencies
@@ -65,3 +65,15 @@ ngrok http 5000
 - delete 2
 - delete all
 - help
+
+## Demonstration Pictures
+1. add command:
+   ![Add Command](assets/MnemoAddCommand.png)
+2. done command:
+   ![Add Command](assets/MnemoDoneCommand.png)
+3. edit/ help command:
+   ![Add Command](assets/MnemoEditCommand.png)
+4. delete/ Delete all command:
+   ![Add Command](assets/MnemoDeleteCommand.png)
+5. Reminder:
+6. ![Add Command](assets/MnemoReminder.png)
