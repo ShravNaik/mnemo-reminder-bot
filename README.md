@@ -1,4 +1,5 @@
-<img src="assets/MnemoLogo.png" alt="Mnemo Logo" width="120" height="120" />
+<div align="center">
+<img src="assets/MnemoLogo.png" alt="Mnemo Logo" width="120" height="154" />
 # Mnemo — Your Timekeeper Companion ⏳
 
 Mnemo is a smart WhatsApp assistant that helps you stay on track with life’s tasks.  
