@@ -1,5 +1,7 @@
 <div align="center">
 <img src="assets/MnemoLogo.png" alt="Mnemo Logo" width="120" height="154" />
+</div>
+
 # Mnemo — Your Timekeeper Companion ⏳
 
 Mnemo is a smart WhatsApp assistant that helps you stay on track with life’s tasks.  
@@ -7,7 +9,7 @@ Add one‑time or recurring reminders, mark them as done, edit on the fly, and v
 
 ---
 
-## ✨ Features
+## Features
 - 📝 Add tasks with one‑time or recurring reminders (`daily`, `weekly`)
 - 📃 View tasks (all, pending, done)
 - ✅ Mark tasks as done
@@ -19,7 +21,7 @@ Add one‑time or recurring reminders, mark them as done, edit on the fly, and v
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python** — core language
 - **Flask** — web framework for WhatsApp webhook
 - **Twilio API (WhatsApp)** — messaging integration
@@ -30,7 +32,7 @@ Add one‑time or recurring reminders, mark them as done, edit on the fly, and v
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repo
 ```bash
@@ -42,7 +44,7 @@ cd mnemo-reminder-bot
 pip install -r requirements.txt
 ```
 ### 3. Set environment variables
-**NOTE: You have to create a free Twilio account, then go to sandbox settings and connect your phone number using the QR or with the special joining code.**
+**NOTE: You have to create a free Twilio account, then go to sandbox settings and connect your phone number using the QR or with the special joining code.**<br><br>
 create a .env file:
 ```bash
 TWILIO_ACCOUNT_SID=your_sid
